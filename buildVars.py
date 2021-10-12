@@ -29,7 +29,7 @@ About issues #3152 and #5759:
 Announces when a folder is empty.
 """),
 	# version
-	"addon_version": "dev20211012",
+	"addon_version": "dev20211012A1",
 	# Author(s)
 	"addon_author": "Javi Dominguez <github.com/javidominguez/>",
 	# URL for the add-on documentation support
